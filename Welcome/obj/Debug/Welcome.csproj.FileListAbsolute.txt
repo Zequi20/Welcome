@@ -1,0 +1,10 @@
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\bin\Debug\Welcome.exe.config
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\bin\Debug\Welcome.exe
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\bin\Debug\Welcome.pdb
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.csprojAssemblyReference.cache
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.Form1.resources
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.Properties.Resources.resources
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.csproj.GenerateResource.cache
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.exe
+C:\Users\lucia\Source\Repos\Zequi20\Welcome\Welcome\obj\Debug\Welcome.pdb
